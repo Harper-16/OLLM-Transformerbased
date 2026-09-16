@@ -1,0 +1,10 @@
+datasets
+sentencepiece
+tokenizers
+datasketch
+langdetect
+webdataset
+progress
+regex
+tqdm
+ujson

@@ -1,0 +1,7 @@
+data/
+*.npz
+*.db
+.venv
+venv/
+pycache/
+*.pyc
